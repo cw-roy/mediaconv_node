@@ -1,5 +1,8 @@
 // server.mjs
 
+/*  A prototype to capture one frame from a video.
+ */
+
 import express from 'express';
 import cors from 'cors';
 import multer from 'multer';

@@ -1,6 +1,6 @@
 // client.js
 
-const API_ENDPOINT = 'http://localhost:3000/thumbnail';
+const API_ENDPOINT = 'http://localhost:3002/thumbnail';
 
 const fileInput = document.querySelector('#file-input');
 const submitButton = document.querySelector('#submit');
